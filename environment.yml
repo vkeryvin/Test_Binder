@@ -4,5 +4,3 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
-  - voila
-  - bqplot
