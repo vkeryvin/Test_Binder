@@ -1,3 +1,6 @@
 ipywidgets
 numpy
 matplotlib
+datetime
+pandas
+plotly
