@@ -1,5 +1,6 @@
 ipywidgets
 numpy
+scipy
 matplotlib
 datetime
 pandas
